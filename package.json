@@ -1,13 +1,13 @@
 {
-  "name": "fh-my-storybook-components",
+  "name": "vcl-my-storybook-components",
   "version": "0.1.0",
   "private": false,
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "homepage": "https://fernando-herrera.com",
+  "homepage": "https://google.com",
   "repository": {
-    "url": "https://github.com/Klerith/sb-components",
+    "url": "https://github.com/vjkc09/prueba-sb",
     "type": "git"
   },
   "peerDependencies": {
