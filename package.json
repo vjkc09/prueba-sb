@@ -5,7 +5,7 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "homepage": "https://google.com",
+  "homepage": "https://espanol.yahoo.com/?err=404&err_url=https://es-us.deportes.yahoo.com/futbol/mexicano/?guce_referrer=ahr0chm6ly93d3cuz29vz2xllmnvbs8&guce_referrer_sig=aqaaalc0nwdtxnci2ppk6kmjch13q_jvq4btbnr5gmgkjezg-asrkp7xmacks4qgqazbpfwcp6nyebnhrqrtqsug21j81cdrd7czkgspuyes6yif5krkbyw-e1x2bidtlsm7y8belch8_ljfcui1middf-gv_ompyi78-yxfblww7pje",
   "repository": {
     "url": "https://github.com/vjkc09/prueba-sb",
     "type": "git"
